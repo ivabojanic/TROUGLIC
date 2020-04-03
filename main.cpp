@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include "JEDNAKOSTRANICNI.hpp"
+#include "JEDNAKOSTRANICAN.hpp"
 
 int main()
 {
