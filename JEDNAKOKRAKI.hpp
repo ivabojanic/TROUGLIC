@@ -1,7 +1,7 @@
 #ifndef JKTROUGAO_HPP_INCLUDED
 #define JKTROUGAO_HPP_INCLUDED
 
-#include "Trougao.hpp"
+#include "TROUGAO.hpp"
 
 class JKTrougao : public Trougao
 {
