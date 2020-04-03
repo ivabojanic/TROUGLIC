@@ -1,7 +1,7 @@
 #ifndef JSTROUGAO_HPP_INCLUDED
 #define JSTROUGAO_HPP_INCLUDED
 
-#include "JKTrougao.hpp"
+#include "JEDNAKOKRAKI.hpp"
 
 class JSTrougao : public JKTrougao
 {
